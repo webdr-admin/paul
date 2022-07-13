@@ -1,0 +1,21 @@
+{
+  "name": "paul",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "paul": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdr-admin/paul.git"
+  },
+  "author": "Paul Whitaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdr-admin/paul/issues"
+  },
+  "homepage": "https://github.com/webdr-admin/paul#readme"
+}
